@@ -64,5 +64,5 @@ I am currently improving my GitHub profile, learning AI automation tools, and pr
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/reem-saijary-442b2b260?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: https://www.linkedin.com/in/reem-saijary-442b2b260/
 - GitHub: https://github.com/reemsaijary
