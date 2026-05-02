@@ -1,31 +1,33 @@
-# Hi, I'm Reem 
+# Hi, I'm Reem 👋
 
- Senior Computer Science Student  
- Web Development | AI Automation | Business Systems  
- Currently learning Python, Django, Supabase, n8n, and Agentic AI  
+## 🚀 Building Intelligent Systems | AI Automation | Backend Development
 
----
+Senior Computer Science Student passionate about building real-world systems that automate and scale business operations.
 
-## About Me
-
-I am a Computer Science student interested in building practical systems that solve real business problems.
-
-My main focus is web development, backend systems, automation, and AI-powered tools.  
-I enjoy turning ideas into real projects and continuously improving my technical skills.
+Currently exploring Python, Django, Supabase, n8n, and Agentic AI.
 
 ---
 
-##  Current Learning Path
+## 🧠 About Me
 
-- Python for backend and AI logic
-- Django for backend development
-- Supabase for database and authentication
-- n8n for workflow automation
-- Agentic AI and business automation tools
+I am a Computer Science student focused on building practical and intelligent systems that solve real business problems.
+
+My interests include backend development, automation, and AI-powered tools.  
+I enjoy transforming ideas into real applications and continuously improving my technical and problem-solving skills.
 
 ---
 
-##  Tech Stack
+## 📚 Current Learning Path
+
+- Python for backend and AI logic  
+- Django for backend development  
+- Supabase for database and authentication  
+- n8n for workflow automation  
+- Agentic AI and business automation systems  
+
+---
+
+## 🛠️ Tech Stack
 
 | Area     | Technologies                            |
 |----------|-----------------------------------------|
@@ -37,32 +39,44 @@ I enjoy turning ideas into real projects and continuously improving my technical
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Hallal Snacks Online Ordering System
-A restaurant ordering website where customers can browse menu items, add products to cart, and place orders through WhatsApp.
+### 🍔 Hallal Snacks Online Ordering System
+A restaurant ordering system that allows users to browse menu items, manage a cart, and place orders via WhatsApp.
 
-**Tech Used:** React, Bootstrap, JavaScript
-
----
-
-### Mini ERP Factory Management System
-A Laravel-based internal management system for a carton factory, including modules for orders, production, employees, attendance, machines, and reports.
-Currently in development as my senior project.
-
-**Tech Used:** Laravel, PHP, MySQL, Blade
+**Focus:** Real-world user interaction and frontend logic  
+**Tech Used:** React, Bootstrap, JavaScript  
 
 ---
 
-## Current Mission
+### 🏭 Mini ERP Factory Management System
+A full-featured factory management system designed to handle orders, production, employees, attendance, machines, and reporting.
 
-I am currently improving my GitHub profile, learning AI automation tools, and preparing to work on intelligent business systems.
+🚧 Currently under development as my senior project  
+
+**Focus:** Backend systems, database design, and business logic  
+**Tech Used:** Laravel, PHP, MySQL, Blade  
+
+---
+
+## 🎯 Current Mission
+
+I am currently improving my GitHub profile, learning AI automation tools, and preparing to build intelligent business systems.
 
 > Learning step by step, building with purpose, and improving every day.
 
 ---
 
-## Connect With Me
+## 🔮 Future Focus
 
-- LinkedIn: https://www.linkedin.com/in/reem-saijary-442b2b260/
-- GitHub: https://github.com/reemsaijary
+- Building AI-powered automation systems  
+- Exploring Agentic AI and intelligent workflows  
+- Developing scalable backend systems  
+- Applying AI in real business environments  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/reem-saijary-442b2b260/  
+- GitHub: https://github.com/reemsaijary  
