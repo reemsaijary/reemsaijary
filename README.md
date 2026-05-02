@@ -1,5 +1,7 @@
 # Hi, I'm Reem 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Automation+%7C+Backend+Development;Building+Real+World+Systems;Learning+Step+by+Step+🚀" />
+</p>
 ## 🚀 Building Intelligent Systems | AI Automation | Backend Development
 
 Senior Computer Science Student passionate about building real-world systems that automate and scale business operations.
@@ -37,6 +39,14 @@ I enjoy transforming ideas into real applications and continuously improving my 
 | Tools    | Git, GitHub, VS Code, Figma             |
 | Learning | n8n, AI Agents, Automation, CRM Systems |
 
+### ⚡ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge)
 ---
 
 ## 🚀 Featured Projects
