@@ -1,7 +1,11 @@
 # Hi, I'm Reem 👋
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Automation+%7C+Backend+Development;Building+Real+World+Systems;Learning+Step+by+Step+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+Automation+%7C+Backend+Development;Building+Real+World+Systems" />
 </p>
+
+
 ## 🚀 Building Intelligent Systems | AI Automation | Backend Development
 
 Senior Computer Science Student passionate about building real-world systems that automate and scale business operations.
