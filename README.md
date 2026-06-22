@@ -2,34 +2,42 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+Automation+%7C+Backend+Development;Building+Real+World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=500&lines=BBBackend+Development+%7C+Web+Applications;Building+Real+World+Systems" />
 </p>
 
 
-## 🚀 Building Intelligent Systems | AI Automation | Backend Development
+## 🚀 Backend Development | Web Applications | Business Systems
 
-Senior Computer Science Student passionate about building real-world systems that automate and scale business operations.
+Senior Computer Science student and aspiring software developer passionate about building practical systems that solve real-world business challenges.
 
-Currently exploring Python, Django, Supabase, n8n, and Agentic AI.
+Recently completed an internship focused on developing and deploying a Recruitment CRM platform, while continuously expanding my skills in backend development, databases, automation, and software engineering.
 
 ---
 
 ## 🧠 About Me
 
-I am a Computer Science student focused on building practical and intelligent systems that solve real business problems.
+I enjoy building applications that combine clean user experiences with strong backend logic.
 
-My interests include backend development, automation, and AI-powered tools.  
-I enjoy transforming ideas into real applications and continuously improving my technical and problem-solving skills.
+My interests include:
+
+- Backend Development
+- Business Management Systems
+- Workflow Automation
+- Database Design
+- Web Application Development
+- AI-Powered Solutions
+
+I believe the best way to learn is by building real projects, solving real problems, and continuously improving through hands-on experience.
 
 ---
 
-## 📚 Current Learning Path
+## 📚 Current Status
 
-- Python for backend and AI logic  
-- Django for backend development  
-- Supabase for database and authentication  
-- n8n for workflow automation  
-- Agentic AI and business automation systems  
+- Senior Computer Science Student
+- Completing my final university requirements
+- Recently completed a Software Development Internship
+- Building a professional portfolio of real-world projects
+- Actively preparing for the next step in my software development journey. 
 
 ---
 
@@ -41,7 +49,7 @@ I enjoy transforming ideas into real applications and continuously improving my 
 | Backend  | Laravel, PHP, Python, Django            |
 | Database | MySQL, Supabase, PostgreSQL             |
 | Tools    | Git, GitHub, VS Code, Figma             |
-| Learning | n8n, AI Agents, Automation, CRM Systems |
+
 
 ### ⚡ Technologies
 
@@ -50,38 +58,63 @@ I enjoy transforming ideas into real applications and continuously improving my 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
+
+### 💼 Recruitment CRM System
+A complete recruitment management platform developed during my internship.
+
+**Highlights:**
+- Designed and developed during a Software Development Internship
+- Deployed and tested in a production environment
+- Includes Admin, Company, and Candidate portals
+  
+**Features**
+- Multi-role authentication (Admin, Company, Candidate)
+- Job posting and application management
+- Candidate tracking pipeline
+- Interview scheduling
+- Evaluation management
+- Notification system
+- Google Authentication
+- Responsive dashboards
+- Landing page and deployment
+
+**Focus:** Backend systems, database design, and business logic
+
+**Tech Used:** Django, Python, SQLite, Supabase, HTML, CSS, JavaScript
+
+---
 
 ### 🍔 Hallal Snacks Online Ordering System
 A restaurant ordering system that allows users to browse menu items, manage a cart, and place orders via WhatsApp.
 
 **Focus:** Real-world user interaction and frontend logic  
+
 **Tech Used:** React, Bootstrap, JavaScript  
 
 ---
 
 ### 🏭 Mini ERP Factory Management System
-A full-featured factory management system designed to handle orders, production, employees, attendance, machines, and reporting.
-
-🚧 Currently under development as my senior project  
+Graduation project focused on managing factory operations including production, orders, employees, attendance, inventory, and reporting.
 
 **Focus:** Backend systems, database design, and business logic  
+
 **Tech Used:** Laravel, PHP, MySQL, Blade  
 
 ---
 
-## 🎯 Current Mission
+## 🎯 Current Focus
 
-I am currently improving my GitHub profile, learning AI automation tools, and preparing to build intelligent business systems.
+Currently strengthening my skills in backend development, software architecture, database design, and building scalable business applications.
 
-> Learning step by step, building with purpose, and improving every day.
+I am also exploring automation tools and AI-powered solutions to better understand how technology can improve business workflows.
 
 ---
 
-## 🔮 Future Focus
+## 🔮 Goals
 
 - Building AI-powered automation systems  
 - Exploring Agentic AI and intelligent workflows  
@@ -89,6 +122,12 @@ I am currently improving my GitHub profile, learning AI automation tools, and pr
 - Applying AI in real business environments  
 
 ---
+
+## 📊 GitHub Stats
+
+![Reem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reemsaijary&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reemsaijary&layout=compact&theme=tokyonight)
 
 ## 📫 Connect With Me
 
