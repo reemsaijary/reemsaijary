@@ -8,7 +8,7 @@
 
 ## 🚀 Backend Development | Web Applications | Business Systems
 
-Senior Computer Science student and aspiring software developer passionate about building practical systems that solve real-world business challenges.
+Junior Computer Science student and aspiring software developer passionate about building practical systems that solve real-world business challenges.
 
 Recently completed an internship focused on developing and deploying a Recruitment CRM platform, while continuously expanding my skills in backend development, databases, automation, and software engineering.
 
