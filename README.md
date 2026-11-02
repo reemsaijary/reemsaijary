@@ -1,157 +1,142 @@
-<h1 align="center">
-  Hi, I'm Reem 👋
-</h1>
+<h1 align="center">Hi, I'm Reem 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Developer;Backend+%26+Full-Stack+Developer;Python+%7C+Django+Developer;Building+Real-World+Web+Applications;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Junior+Full-Stack+Developer;Python+%7C+Django+%7C+JavaScript;Building+Practical+Web+Applications;Learning+Through+Projects+and+Collaboration" alt="Junior Full-Stack Developer working with Python, Django, and JavaScript" />
 </p>
 
----
+<p align="center">
+  <a href="https://reemsaijary.github.io/reem-portfolio-website/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/reem-saijary/">LinkedIn</a>
+  ·
+  <a href="mailto:reemsaijary31@gmail.com">Email</a>
+</p>
 
-# 🧠 About Me
+## 👩‍💻 About Me
 
-I'm passionate about developing applications that solve real business problems while following modern software engineering practices.
+I'm a Computer Science graduate from Lebanese International University,
+with a GPA of **3.97/4.00**, based in **Saida, Lebanon**.
 
-My interests include:
+I enjoy building web applications that organize data, simplify workflows,
+and solve practical business problems. My experience includes Django
+business systems, React interfaces, REST APIs, and relational database design.
 
-- Backend Development
-- Full-Stack Web Development
-- Business Management Systems
-- REST API Development
-- Database Design
-- Software Architecture
-- Workflow Automation
-- AI-Powered Development Tools
+Through internships and team projects, I've worked with GitHub branches
+and pull requests, Jira tasks, and technical documentation.
 
-I believe the best way to grow as a developer is by building meaningful projects, collaborating with teams, and continuously learning new technologies.
+I'm looking for **junior developer opportunities** where I can contribute,
+learn from others, and strengthen my development skills.
 
----
+## 💼 Internship Experience
 
-# 📚 Current Status
+### TechTalks — Backend Development Intern
+**Python Track · August–October 2026 · Completed**
 
-- 🎓 B.Sc. in Computer Science (Graduated with Distinction, GPA 3.97/4.00)
-- 💼 Completed Operations & Technical Internship at EVA Ops
-- 👩‍💻 Incoming Software Engineering Intern at TechTalks (August–October 2026)
-- 🚀 Building real-world backend and full-stack applications
-- 📖 Continuously learning modern software engineering practices
+Collaborated with a seven-member team on **Ordira**, a platform for
+small online clothing shops.
 
----
+My contributions included:
 
-# 🛠️ Tech Stack
+- Setting up the Django project structure and applications.
+- Configuring environment variables and PostgreSQL settings.
+- Designing and refining the entity relationship diagram.
+- Contributing technical documentation and collaborating through
+  GitHub, Jira, and Notion.
+
+### EVA Ops — Operations & Technical Intern
+**May–June 2026 · Completed**
+
+Developed a **Recruitment CRM** with Django, including:
+
+- Role-based dashboards for administrators, companies, and candidates.
+- Job postings, application tracking, and interview scheduling.
+- Authentication, Google sign-in, and workflow notifications.
+- Database design and application deployment.
+
+## 🛠️ Technical Toolkit
+
+Technologies I've used in projects and internships:
 
 | Area | Technologies |
-|------|--------------|
-| Frontend | HTML5, CSS3, JavaScript, React |
-| Backend | Python, Django, Laravel, PHP |
-| Database | PostgreSQL, MySQL, SQLite, Supabase |
-| Tools | Git, GitHub, VS Code, Postman, Render, Vercel |
-| Concepts | REST APIs, Authentication, MVC, CRUD Applications |
+|---|---|
+| Languages | Python, PHP, JavaScript, HTML, CSS |
+| Backend | Django, Django REST Framework, Laravel |
+| Frontend | React, Bootstrap |
+| Databases | PostgreSQL, MySQL, SQLite |
+| Tools | Git, GitHub, VS Code, Jira, Notion |
+| Deployment platforms | GitHub Pages, Vercel, Render |
+| Concepts | REST APIs, Authentication, CRUD, OOP, MVC, Relational Database Design |
 
----
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
+### 🛍️ Ordira
 
-## 💼 Recruitment CRM Platform
+A team-built platform for small clothing shops selling through
+Instagram and WhatsApp.
 
-A production-style recruitment management platform developed during my internship.
+- Public shop catalogs and guest checkout.
+- Products, variants, and inventory management.
+- Customer records and order tracking.
+- Manual payments and outstanding balances.
 
-### Highlights
+**Built with:** Django, Python, PostgreSQL, HTML, CSS, JavaScript
 
-- Multi-role authentication
-- Recruitment workflow management
-- Candidate tracking pipeline
-- Interview scheduling
-- Notification system
-- Google Authentication
-- Responsive dashboards
-- Landing page
-- Cloud deployment
+My work focused on project structure, environment configuration,
+and database planning.
 
-**Tech Stack**
+[View repository](https://github.com/MohammadMouhyeldeen/techtalks-ordira)
 
-`Django • Python • PostgreSQL • HTML • CSS • JavaScript`
+### 💼 Recruitment CRM
 
----
+A recruitment management platform developed during my EVA Ops internship.
 
-## ✅ TaskFlow – Full-Stack Task Management System
+- Separate dashboards for administrators, companies, and candidates.
+- Job and application management.
+- Interview scheduling and application status tracking.
+- Google authentication and notifications.
 
-A modern full-stack task management application designed to help users organize and manage their daily work.
+**Built with:** Django, Python, SQL databases, HTML, CSS, JavaScript
 
-### Highlights
+[View repository](https://github.com/reemsaijary/Recruitment-CRM)
 
-- Django REST API
-- React frontend
-- Authentication
-- PostgreSQL database
-- Cloud deployment
-- Responsive UI
+### ✅ TaskFlow
 
-**Tech Stack**
+A full-stack task management application with:
 
-`Django • React • PostgreSQL • REST API`
+- A Django REST Framework API and React frontend.
+- JWT authentication.
+- Task creation, editing, deletion, and progress tracking.
+- PostgreSQL database integration.
 
----
+**Built with:** Django REST Framework, React, PostgreSQL
 
-## 🏭 Mini ERP Factory Management System
+[View repository](https://github.com/reemsaijary/taskflow-fullstack-app)
 
-Graduation project focused on digitizing factory operations through an integrated ERP solution.
+### 🏭 Mini ERP Factory Management System
 
-### Features
+My graduation project: a system for organizing factory operations.
 
-- Employee Management
-- Production Workflow
-- Attendance Tracking
-- Payroll
-- Inventory
-- Reporting
+- Employee and attendance management.
+- Production workflows and payroll.
+- Reports and role-based access.
 
-**Tech Stack**
+**Built with:** Laravel, PHP, MySQL
 
-`Laravel • PHP • MySQL`
+[View repository](https://github.com/reemsaijary/mini-erp-factory-management-system)
 
----
+## 🌱 Currently Learning
 
-## 🍔 Hallal Snacks Ordering System
+- Strengthening JavaScript fundamentals through coding practice.
+- Improving React and full-stack application development.
+- Deepening my understanding of APIs and database design.
+- Practicing debugging and understanding the code I build.
 
-A restaurant ordering platform with an interactive user experience and WhatsApp ordering integration.
+## 🌐 Explore My Work
 
-**Tech Stack**
+Visit my [portfolio](https://reemsaijary.github.io/reem-portfolio-website/)
+for project previews, experience, certificates, and my CV.
 
-`React • Node.js • JavaScript`
+## 📫 Get in Touch
 
----
-
-# 🎯 Current Focus
-
-Currently expanding my experience in:
-
-- Backend Development
-- Software Engineering
-- Team Collaboration
-- Git Workflows
-- Database Design
-- API Development
-- AI-assisted Development
-
----
-
-# 🎯 2026 Goals
-
-- Build production-quality software
-- Contribute effectively within engineering teams
-- Strengthen backend engineering skills
-- Learn modern development workflows
-- Explore AI-powered developer tools and automation
-
----
-
-# 🌐 Portfolio
-
-🔗 https://reemsaijary.github.io/reem-portfolio-website/
-
----
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/reem-saijary/
-- 💻 GitHub: https://github.com/reemsaijary
+- **LinkedIn:** [Reem Saijary](https://www.linkedin.com/in/reem-saijary/)
+- **Email:** [reemsaijary31@gmail.com](mailto:reemsaijary31@gmail.com)
